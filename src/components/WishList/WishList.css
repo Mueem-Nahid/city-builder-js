@@ -1,0 +1,10 @@
+.my-table:hover {
+    color: white;
+    background-color: #464866;
+    cursor: pointer;
+}
+
+.stuck {
+    position: sticky;
+    top: 130px;
+}
